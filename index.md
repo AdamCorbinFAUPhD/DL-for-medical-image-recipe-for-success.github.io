@@ -3,8 +3,8 @@
 ## Abstract
 
 ## Poster
-- TODO upload poster
-- TODO add link to poster
+
+[Poster link](https://github.com/AdamCorbinFAUPhD/DL-for-medical-image-recipe-for-success.github.io/blob/gh-pages/IPTA_poster_SIIM_2022.pptx)
 
 ### References
 - TODO add references 
